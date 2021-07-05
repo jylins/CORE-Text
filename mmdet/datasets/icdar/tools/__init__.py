@@ -1,0 +1,1 @@
+from .script import icdar_eval_tool
